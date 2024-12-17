@@ -1,0 +1,18 @@
+<HTML>
+    <HEAD>
+        <TITLE>PROGRAM 1</TITLE>
+    </HEAD>
+    <BODY>
+        <p style="color:green;">1</p>
+        <p style="color:red;">2</p>
+        <p style="color:yellow;">3</p>
+        <p style="color:blue;">4</p>
+        <p style="color:black;">5</p>
+        <p style="color:violet;">6</p>
+        <p style="color:pink;">7</p>
+        <p style="color:maroon;">8</p>
+        <p style="color:brown;">9</p>
+        <p style="color:orange;">10</p>
+
+    </BODY>
+</HTML>
